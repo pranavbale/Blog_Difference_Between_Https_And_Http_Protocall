@@ -1,0 +1,22 @@
+Difference between HTTP1.1 and HTTP2
+
+Before differencing let us understand what is HTTP. HTTP is an file transfer protocal. Hipper Text Transfer Protocal 
+is an longform of HTTP.
+The general function of HTTP is to transfer a data form one machine to another machine. The data will be transfer 
+from one machine to another machine with the help of TCP protocal.
+
+Let consider machine A and machine B want to comminate with each other. The machine A send the request to machine B 
+and then machine B send the response to machine B. machine B also contact to machine A and in this way both machine 
+will contact with each other.
+
+HTTP has type let discuss some of this type 
+
+1.	HTTP 1.1
+The HTTP 1.1 is an first type of HTTP protocal. The machine A contact machine B with the help of sending the plain 
+text massage form and Machine B also contact with the plain text massage form. The HTTP 1.1 protocal can’t send 
+second protocal until the first protocal complete.
+
+2.	HTTP 2
+HTTP 2  is an one of the another type of HTTP protocal. In an HTTP 2 protocal machine A contact with machine B with 
+the help of send the binary format and machine B also send response to machine A with the binary format. More than 
+one TCP protocal will be work at the same time.  
